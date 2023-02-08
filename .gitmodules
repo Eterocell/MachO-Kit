@@ -6,4 +6,4 @@
 	url = https://github.com/specta/specta.git
 [submodule "Configuration"]
 	path = Configuration
-	url = https://github.com/DeVaukz/xcconfigs.git
+	url = https://github.com/Eterocell/xcconfigs.git
